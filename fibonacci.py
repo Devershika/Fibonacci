@@ -19,7 +19,8 @@ int main() {
 
     printf("Enter number of terms: ");
     scanf("%d", &n);
-
+ 
+    printf("This is the required fibonacci series")
     fibonacci(n);
 
     return 0;
